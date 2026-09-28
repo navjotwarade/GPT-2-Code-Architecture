@@ -4,7 +4,7 @@ This repository contains a code-only Jupyter notebook that builds the main compo
 
 ## Notebook
 
-- `Techdose_GPT2_Attention_code_only.ipynb`
+- `GPT2_Attention_code_only.ipynb`
 
 ## What This Notebook Covers
 
@@ -159,7 +159,7 @@ jupyter notebook
 Then open:
 
 ```text
-Techdose_GPT2_Attention_code_only.ipynb
+GPT2_Attention_code_only.ipynb
 ```
 
 Run the cells sequentially because several cells depend on variables, classes, and models created earlier in the notebook.
